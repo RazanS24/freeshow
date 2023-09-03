@@ -1,9 +1,9 @@
 {
     "main": {
-        "welcome": "Українська",
+        "welcome": "Ласкаво просимо",
         "quit": "Вийти",
-        "docs": "Documentation",
-        "about": "About",
+        "docs": "Документи",
+        "about": "Про",
         "unnamed": "Unnamed",
         "drop": "Drop here",
         "search": "Search",
